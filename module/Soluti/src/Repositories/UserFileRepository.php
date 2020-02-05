@@ -19,7 +19,7 @@ class UserFileRepository extends EntityRepository
     {
         $this->removeUserFile($file);
 
-        if (!empty($users)) {
+        if (! empty($users)) {
             foreach ($users as $user) {
                 $userFile = $this->findOneBy([
                     'file' => $file->getId(),

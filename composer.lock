@@ -1,10 +1,10 @@
-{
+    {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8b2a4f6d754eb644eedb97d3f9aaee91",
+    "content-hash": "8ad36cde9f104a206e4216d2596df03f",
     "packages": [
         {
             "name": "bshaffer/oauth2-server-php",
@@ -1843,6 +1843,7 @@
                 "ZendFramework",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-authentication",
             "time": "2019-05-14T18:06:07+00:00"
         },
         {
@@ -1926,6 +1927,7 @@
                 "psr-6",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-cache",
             "time": "2019-08-29T18:30:41+00:00"
         },
         {
@@ -1978,6 +1980,7 @@
                 "plugin",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-component-installer",
             "time": "2019-09-04T19:10:43+00:00"
         },
         {
@@ -2038,6 +2041,7 @@
                 "config",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-config",
             "time": "2019-06-08T18:58:54+00:00"
         },
         {
@@ -2090,6 +2094,7 @@
                 "crypt",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-crypt",
             "time": "2019-05-14T20:19:53+00:00"
         },
         {
@@ -2148,6 +2153,7 @@
                 "db",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-db",
             "time": "2019-02-25T11:37:45+00:00"
         },
         {
@@ -2193,6 +2199,7 @@
                 "escaper",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-escaper",
             "time": "2019-09-05T20:03:20+00:00"
         },
         {
@@ -2247,6 +2254,7 @@
                 "events",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-eventmanager",
             "time": "2018-04-25T15:33:34+00:00"
         },
         {
@@ -2312,6 +2320,7 @@
                 "filter",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-filter",
             "time": "2019-08-19T07:08:04+00:00"
         },
         {
@@ -2390,6 +2399,7 @@
                 "form",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-form",
             "time": "2019-10-04T10:46:36+00:00"
         },
         {
@@ -2445,6 +2455,7 @@
                 "zend",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-http",
             "time": "2019-12-03T11:02:51+00:00"
         },
         {
@@ -2505,6 +2516,7 @@
                 "hydrator",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-hydrator",
             "time": "2019-10-04T11:17:36+00:00"
         },
         {
@@ -2562,6 +2574,7 @@
                 "inputfilter",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-inputfilter",
             "time": "2019-08-28T19:45:32+00:00"
         },
         {
@@ -2612,6 +2625,7 @@
                 "json",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-json",
             "time": "2019-10-09T13:56:13+00:00"
         },
         {
@@ -2657,6 +2671,7 @@
                 "loader",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-loader",
             "time": "2019-09-04T19:38:14+00:00"
         },
         {
@@ -2708,6 +2723,7 @@
                 "math",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-math",
             "time": "2018-12-04T15:45:09+00:00"
         },
         {
@@ -2767,6 +2783,7 @@
                 "modulemanager",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-modulemanager",
             "time": "2019-10-28T13:29:38+00:00"
         },
         {
@@ -2839,6 +2856,7 @@
                 "mvc",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-mvc",
             "time": "2017-11-24T06:32:07+00:00"
         },
         {
@@ -2904,6 +2922,7 @@
                 "paginator",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-paginator",
             "time": "2019-08-21T13:31:03+00:00"
         },
         {
@@ -2953,6 +2972,7 @@
                 "acl",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-permissions-acl",
             "time": "2019-06-25T08:09:22+00:00"
         },
         {
@@ -3000,6 +3020,7 @@
                 "rbac",
                 "zend-permssions-rbac"
             ],
+            "abandoned": "laminas/laminas-permissions-rbac",
             "time": "2019-06-25T06:15:10+00:00"
         },
         {
@@ -3062,6 +3083,7 @@
                 "zend",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-router",
             "time": "2019-02-26T20:24:12+00:00"
         },
         {
@@ -3130,6 +3152,7 @@
                 "servicemanager",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-servicemanager",
             "time": "2018-12-22T06:05:09+00:00"
         },
         {
@@ -3176,6 +3199,7 @@
                 "stdlib",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-stdlib",
             "time": "2018-08-28T21:34:05+00:00"
         },
         {
@@ -3223,6 +3247,7 @@
                 "uri",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-uri",
             "time": "2019-10-07T13:35:33+00:00"
         },
         {
@@ -3296,6 +3321,7 @@
                 "validator",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-validator",
             "time": "2019-10-29T08:33:25+00:00"
         },
         {
@@ -3383,6 +3409,7 @@
                 "view",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-view",
             "time": "2019-10-11T21:10:04+00:00"
         },
         {
@@ -3439,6 +3466,7 @@
                 "rest",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-api-problem",
             "time": "2018-05-08T13:57:58+00:00"
         },
         {
@@ -3512,6 +3540,7 @@
                 "framework",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools",
             "time": "2018-05-03T16:54:11+00:00"
         },
         {
@@ -3588,6 +3617,7 @@
                 "doctrine",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-doctrine",
             "time": "2019-01-24T10:16:00+00:00"
         },
         {
@@ -3648,6 +3678,7 @@
                 "module",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-documentation",
             "time": "2018-05-07T14:44:41+00:00"
         },
         {
@@ -3708,6 +3739,7 @@
                 "swagger",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-documentation-swagger",
             "time": "2018-05-07T17:17:13+00:00"
         },
         {
@@ -3754,6 +3786,7 @@
                 "framework",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-provider",
             "time": "2018-05-08T13:32:13+00:00"
         },
         {
@@ -3808,6 +3841,7 @@
                 "rest",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-configuration",
             "time": "2018-05-07T17:38:55+00:00"
         },
         {
@@ -3872,6 +3906,7 @@
                 "module",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-content-negotiation",
             "time": "2018-05-07T19:46:58+00:00"
         },
         {
@@ -3932,6 +3967,7 @@
                 "validation",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-content-validation",
             "time": "2019-03-05T17:19:43+00:00"
         },
         {
@@ -3981,6 +4017,7 @@
                 "framework",
                 "zf"
             ],
+            "abandoned": "laminas/laminas-development-mode",
             "time": "2018-05-07T15:44:42+00:00"
         },
         {
@@ -4047,6 +4084,7 @@
                 "zend",
                 "zf2"
             ],
+            "abandoned": "laminas-api-tools/api-tools-hal",
             "time": "2018-12-11T19:37:00+00:00"
         },
         {
@@ -4108,6 +4146,7 @@
                 "zend",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-mvc-auth",
             "time": "2018-05-31T14:17:41+00:00"
         },
         {
@@ -4176,6 +4215,7 @@
                 "oauth2",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-oauth2",
             "time": "2018-05-07T21:55:10+00:00"
         },
         {
@@ -4243,6 +4283,7 @@
                 "zf",
                 "zf3"
             ],
+            "abandoned": "laminas-api-tools/api-tools-rest",
             "time": "2018-07-31T15:54:45+00:00"
         },
         {
@@ -4302,6 +4343,7 @@
                 "zend",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-rpc",
             "time": "2019-01-22T20:36:45+00:00"
         },
         {
@@ -4359,6 +4401,7 @@
                 "zend",
                 "zf"
             ],
+            "abandoned": "laminas-api-tools/api-tools-versioning",
             "time": "2018-05-03T19:50:14+00:00"
         },
         {
@@ -6020,6 +6063,57 @@
                 "validator"
             ],
             "time": "2019-10-24T14:27:39+00:00"
+        },
+        {
+            "name": "squizlabs/php_codesniffer",
+            "version": "3.5.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
+                "reference": "dceec07328401de6211037abbb18bda423677e26"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/dceec07328401de6211037abbb18bda423677e26",
+                "reference": "dceec07328401de6211037abbb18bda423677e26",
+                "shasum": ""
+            },
+            "require": {
+                "ext-simplexml": "*",
+                "ext-tokenizer": "*",
+                "ext-xmlwriter": "*",
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.0 || ^5.0 || ^6.0 || ^7.0"
+            },
+            "bin": [
+                "bin/phpcs",
+                "bin/phpcbf"
+            ],
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Greg Sherwood",
+                    "role": "lead"
+                }
+            ],
+            "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+            "homepage": "https://github.com/squizlabs/PHP_CodeSniffer",
+            "keywords": [
+                "phpcs",
+                "standards"
+            ],
+            "time": "2020-01-30T22:20:29+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",

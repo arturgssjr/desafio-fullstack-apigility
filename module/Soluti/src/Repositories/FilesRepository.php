@@ -84,7 +84,7 @@ class FilesRepository extends EntityRepository
             $userFileRepository = $this->getEntityManager()->getRepository(UserFile::class);
             $userFile = $userFileRepository->updateUserFile($file, $accessUser);
 
-            if (!$userFile) {
+            if (! $userFile) {
                 $this->getEntityManager()->getConnection()->rollBack();
                 return new ApiProblem(422, 'Não foi possível inserir arquivo ao usuário.');
             }
@@ -104,7 +104,7 @@ class FilesRepository extends EntityRepository
 
         $registerUser = $userRepository->find($id);
 
-        if (!($registerUser instanceof Users)) {
+        if (! ($registerUser instanceof Users)) {
             return new ApiProblem(404, 'Usuário de registro não encontrado.');
         }
 
@@ -125,7 +125,7 @@ class FilesRepository extends EntityRepository
         foreach ($ids as $key => $user) {
             $accessUser[$key] = $userRepository->find($user);
 
-            if (!($accessUser[$key] instanceof Users) && !empty($data)) {
+            if (! ($accessUser[$key] instanceof Users) && ! empty($data)) {
                 return new ApiProblem(404, 'Usuário de acesso não encontrado.');
             }
         }
